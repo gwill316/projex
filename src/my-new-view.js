@@ -16,6 +16,7 @@ class MyNewView extends PolymerElement {
   <my-view2 name="view2"></my-view2>
   <my-view3 name="view3"></my-view3>
   <my-view404 name="view404"></my-view404>
+<my-new-view name="new-view"></my-new-view>
 </iron-pages>
       <style include="shared-styles">
         :host {
